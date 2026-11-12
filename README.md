@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
+<h1 align="center">Hi, I'm Eduardo 👋</h1>
 
 <p align="center">
-  <b>Analista de Sistemas de Informações Gerenciais Pleno</b><br>
+  <b>Management Information Systems Analyst</b><br>
   Schulze Recuperadora de Crédito<br>
-  Desenvolvimento · Automação · Análise de Dados · BI
+  Software Development · Automation · Data Analysis · BI
 </p>
 
 <p align="center">
@@ -12,14 +12,15 @@
 
 ---
 
-### Sobre mim
+### About me
 
-- 💻 Desenvolvo sistemas e ferramentas internas, do back-end ao front-end
-- ⚙️ Crio automações para eliminar tarefas manuais e ganhar eficiência nos processos
-- 📊 Trabalho com análise de dados e BI, criando indicadores e dashboards que apoiam a tomada de decisão
-- 🐧 Gosto de ambientes Linux e de aplicações em containers
+- 💻 I build systems and internal tools, from back end to front end
+- ⚙️ I create automations that remove manual work and make processes more efficient
+- 📊 I work with data analysis and BI, building metrics and dashboards that support decision-making
+- 🐧 I enjoy working with Linux and containerized applications
+- 📍 Based in Joinville, Brazil
 
-### Tecnologias
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
