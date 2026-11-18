@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" title="Python">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" title="Vue.js">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/96/power-bi-2021.png" height="45" alt="Power BI" title="Power BI">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/96/microsoft-power-automate-2020.png" height="45" alt="Power Automate" title="Power Automate">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux">&nbsp;&nbsp;
 </p>
