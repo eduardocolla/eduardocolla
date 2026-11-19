@@ -12,12 +12,10 @@
 
 ### About me
 
-- 💻 I build systems and internal tools, from back end to front end
-- ⚙️ I create automations that remove manual work and make processes more efficient
-- 📊 I work with data analysis and BI, building metrics and dashboards that support decision-making
-- 🧩 C# / .NET is one of my main languages, used daily to build systems and automations
-- 🐧 I enjoy working with Linux and containerized applications
-- 📍 Based in Joinville, Brazil
+- 📊 I turn operational data into business intelligence: executive dashboards, ETL pipelines and metrics that drive decisions
+- ⚙️ I build automations (RPA, scripts and integrations) that eliminate manual work and reduce errors
+- 💻 I develop internal systems end to end, mainly with C# / .NET, Python and Vue.js
+- 🛡️ My background in IT infrastructure and monitoring (SOC/NOC) gives me an end-to-end view of data: from source, security and integrity to the final model
 
 ### Tech stack
 
@@ -28,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" title="Python">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" title="Vue.js">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" title="SQL Server">&nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/power-bi-2021.png" height="45" alt="Power BI" title="Power BI">&nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/microsoft-power-automate-2020.png" height="45" alt="Power Automate" title="Power Automate">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker">&nbsp;&nbsp;
