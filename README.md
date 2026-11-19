@@ -14,8 +14,8 @@
 
 - 📊 I turn operational data into business intelligence: executive dashboards, ETL pipelines and metrics that drive decisions
 - ⚙️ I build automations (RPA, scripts and integrations) that eliminate manual work and reduce errors
-- 💻 I develop internal systems end to end, mainly with C# / .NET, Python and Vue.js
-- 🛡️ My background in IT infrastructure and monitoring (SOC/NOC) covers VMware and Hyper-V virtualization, clusters, Zabbix and Grafana monitoring, and exposure to firewalls and security. It gives me an end-to-end view of data, from source, security and integrity to the final model
+- 💻 I develop internal systems end to end, mainly with C# / .NET, Python and Vue.js, following secure coding practices based on the OWASP Top 10
+- 🛡️ My background in IT infrastructure and monitoring (SOC/NOC) covers VMware and Hyper-V virtualization, clusters, networking (TCP/IP, DNS, DHCP), traffic analysis with Wireshark, Zabbix and Grafana monitoring, and firewalls. It gives me an end-to-end view of data, from source, security and integrity to the final model
 
 ### Tech stack
 
